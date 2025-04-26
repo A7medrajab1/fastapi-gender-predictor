@@ -1,0 +1,11 @@
+Flask==2.2.5
+pandas==1.1.3
+numpy
+requests==2.24.0
+pickle4
+uvicorn
+gunicorn==19.9.0
+# uvloop
+fastapi
+scikit-learn
+Jinja2==3.0.3
